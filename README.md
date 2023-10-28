@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **Machine Learning Models, Data visualization using Power BI**
+- 🔭 I’m currently working on **Machine Learning Models, Data visualization using Power BI.**
  
-- 🌱 I’m currently learning **Deep learning, LLMs, Computer Vision**
+- 🌱 I’m currently learning **Deep learning, LLMs, Computer Vision.**
 
 - 💬 You can ask me about **Machine learning, Artificial Intelligence, communication skills and public speaking.**
 
-- 📫 Reach me here:
-      >[GMail](azharhuzaifa123@gmail.com)
-      >[LinkedIn](www.linkedin.com/in/huzaifa-azhar-3b8b8118b)
+- 📫 You can Reach me here: [GMail](azharhuzaifa123@gmail.com)
+
+- My LinkedIn Profile: [LinkedIn](www.linkedin.com/in/huzaifa-azhar-3b8b8118b)
