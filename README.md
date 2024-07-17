@@ -12,7 +12,7 @@ I'm on my pathway of becoming a full time Data Scientist!
 
 ## 🔭 What I'm Currently Working On
 
-Building robust SQL-based solutions for data cleaning and exploratory analysis tasks, aiming to enhance data-driven decision-making and insights extraction processes.
+Building robust data solutions for businesses for aiming to enhance data-driven decision-making and insights extraction processes. I provide data consultation services to companies who want to capture more out of their data!
 
 ## 📝 Articles and Publications
 
