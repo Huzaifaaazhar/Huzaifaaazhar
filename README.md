@@ -54,5 +54,6 @@ You can reach me here:
 	<code><img width="50" src="https://user-images.githubusercontent.com/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c" alt="Playwright" title="Playwright"/></code>
 </div>
+
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifaaazhar&theme=youtube-dark&hide_border=true)](https://git.io/streak-stats)
