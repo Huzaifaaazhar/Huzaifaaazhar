@@ -1,4 +1,4 @@
-# Hi there 👋, This is Huzaifa azhar.
+# I'm Huzaifa azhar.
 
 # Data Science | Machine Learning | Artificial Intelligence
 <!--
