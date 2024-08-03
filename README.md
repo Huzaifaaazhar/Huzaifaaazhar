@@ -39,4 +39,7 @@ Python, C#, JIRA, Figma, SQL, PostgreSQL, MySQL, Power BI, Microsoft Azure.
 
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifaaazhar&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifaaazhar&theme=youtube-dark&hide_border=true)](https://git.io/streak-stats)
+
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?titleAlign=center&fontSize=20&fontWeight=bold&showBorder=false&lineCount=1&theme=blood_dark)
