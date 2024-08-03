@@ -33,13 +33,5 @@ You can Reach me here: [GMail](azharhuzaifa123@gmail.com).
 - GitHub: [GitHub](https://github.com/Huzaifaaazhar)
 - Kaggle: [Kaggle](https://www.kaggle.com/huzaifaazhar05)
 
-## Languages and Tools
-
-Python, C#, JIRA, Figma, SQL, PostgreSQL, MySQL, Power BI, Microsoft Azure.
-
-
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifaaazhar&theme=youtube-dark&hide_border=true)](https://git.io/streak-stats)
-
-
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?titleAlign=center&fontSize=20&fontWeight=bold&showBorder=false&lineCount=1&theme=blood_dark)
