@@ -1,40 +1,28 @@
-# Hi, I'm Huzaifa azhar.
-
+# Hi, I'm Huzaifa Azhar.
 A Software Engineering Graduate from the University of Karachi, UBIT.
 I have embarked on a journey fueled by a relentless pursuit of personal and professional growth. Rooted in a foundation of academic excellence, I have honed not only technical prowess but also cultivated a multifaceted skill set essential for navigating the complex landscape of modern business and technology.
 I'm passionate about Data Science and my fervor for Data Science propels me to immerse myself in hands-on experiences aimed at crafting structured methodologies for data-driven decision-making. Driven by passion, I seek constant learning in the field of Data science and keep myself updated with the latest cutting edge technologies.
 
 # Data Science | Machine Learning | Artificial Intelligence
-<!--
-**Huzaifaaazhar/Huzaifaaazhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 💬 You can ask me about **Data Science, Machine learning, Artificial Intelligence, and Public Speaking.**
-
 I specialize in leveraging insights through Data analytics using SQL, to conduct thorough data cleaning and exploratory data analysis (EDA). With a background in BI and Data Analytics, I bring practical expertise in ensuring data quality and extracting actionable insights. Each project in my portfolio demonstrates my commitment to meticulous data preparation and insightful analysis.
 I'm on my pathway of becoming a full time Data Scientist!
 
 ## 🔭 What I'm Currently Working On
-
-Building robust data solutions for businesses for aiming to enhance data-driven decision-making and insights extraction processes. I provide data consultation services to companies who want to capture more out of their data!
-
-## 📝 Articles and Publications
-
-I regularly share my insights and experiences on [Medium](https://medium.com/@azharhuzaifa123). Stay tuned for articles on SQL best practices, machine learning techniques and LLM's implementation.
+Building robust data solutions for businesses aiming to enhance data-driven decision-making and insights extraction processes. I provide data consultation services to companies who want to capture more out of their data!
 
 ## 📫 How to Reach Me
 
-You can Reach me here: [GMail](azharhuzaifa123@gmail.com).
+You can reach me here:
+[![GMail](https://img.shields.io/badge/-GMail-D14836?style=flat&logo=GMail&logoColor=white)](mailto:azharhuzaifa123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/huzaifa-azhar-3b8b8118b)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Huzaifaaazhar)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/huzaifaazhar05)
 
-## My Portfolio
-
-- My LinkedIn Profile: [LinkedIn](www.linkedin.com/in/huzaifa-azhar-3b8b8118b)
-- GitHub: [GitHub](https://github.com/Huzaifaaazhar)
-- Kaggle: [Kaggle](https://www.kaggle.com/huzaifaazhar05)
+## Go through my Articles here:
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=Medium&logoColor=white)](https://medium.com/@azharhuzaifa123)
 
 ## Tools and Tech Stack
-
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code>
@@ -62,10 +50,9 @@ You can Reach me here: [GMail](azharhuzaifa123@gmail.com).
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png" alt="IBM Cloud" title="IBM Cloud"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" alt="Databricks" title="Databricks"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" alt="Databricks" title="Databricks"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c" alt="Playwright" title="Playwright"/></code>
 </div>
-
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifaaazhar&theme=youtube-dark&hide_border=true)](https://git.io/streak-stats)
