@@ -1,5 +1,6 @@
-# Hi there 👋, This is Huzaifa azhar. 
+# Hi there 👋, This is Huzaifa azhar.
 
+# Data Science | Machine Learning | Artificial Intelligence
 <!--
 **Huzaifaaazhar/Huzaifaaazhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
