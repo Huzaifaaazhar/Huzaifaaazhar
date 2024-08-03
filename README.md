@@ -22,6 +22,8 @@ I regularly share my insights and experiences on [Medium](https://medium.com/@az
 
 You can Reach me here: [GMail](azharhuzaifa123@gmail.com).
 
+[![GitHub Streak](https://streak-stats.demolab.com/Huzaifaaazhar)](https://git.io/streak-stats)
+
 ## My Portfolio
 
 - My LinkedIn Profile: [LinkedIn](www.linkedin.com/in/huzaifa-azhar-3b8b8118b)
