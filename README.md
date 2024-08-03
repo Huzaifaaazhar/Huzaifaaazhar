@@ -22,8 +22,6 @@ I regularly share my insights and experiences on [Medium](https://medium.com/@az
 
 You can Reach me here: [GMail](azharhuzaifa123@gmail.com).
 
-[![GitHub Streak](https://streak-stats.demolab.com/Huzaifaaazhar)](https://git.io/streak-stats)
-
 ## My Portfolio
 
 - My LinkedIn Profile: [LinkedIn](www.linkedin.com/in/huzaifa-azhar-3b8b8118b)
@@ -33,3 +31,7 @@ You can Reach me here: [GMail](azharhuzaifa123@gmail.com).
 ## Languages and Tools
 
 Python, C#, JIRA, Figma, SQL, PostgreSQL, MySQL, Power BI, Microsoft Azure.
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Huzaifaaazhar)](https://git.io/streak-stats)
