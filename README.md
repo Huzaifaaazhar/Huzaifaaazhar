@@ -63,3 +63,7 @@ You can reach me here:
 <h1 align="center">📊 GitHub Stats</h1>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifaaazhar&theme=youtube-dark&hide_border=true)](https://git.io/streak-stats)
+
+<h1 align="center">Contributions</h1>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Huzaifaaazhar&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
