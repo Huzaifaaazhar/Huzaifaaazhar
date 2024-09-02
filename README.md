@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-(https://github.com/Huzaifaaazhar/Huzaifaaazhar/blob/main/vecteezy_ai-technology-and-cyber-character-illustration-futuristic_24492308.png)
+![Header Image](https://github.com/Huzaifaaazhar/Huzaifaaazhar/blob/main/vecteezy_ai-technology-and-cyber-character-illustration-futuristic_24492308.png?raw=true)
 
 <h1 align="center">Hi, I'm Huzaifa Azhar.</h1>
 
