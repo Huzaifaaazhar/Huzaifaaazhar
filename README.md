@@ -1,4 +1,4 @@
-#<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
 ![Header Image](https://github.com/Huzaifaaazhar/Huzaifaaazhar/blob/main/vecteezy_ai-technology-and-cyber-character-illustration-futuristic_24492308.png?raw=true)
 
