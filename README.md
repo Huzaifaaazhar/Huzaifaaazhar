@@ -1,3 +1,7 @@
+# Welcome to My GitHub Profile! 👋
+
+# ![Header Image](https://github.com/Huzaifaaazhar/Huzaifaaazhar/blob/main/[header-image.png](https://github.com/Huzaifaaazhar/Huzaifaaazhar/blob/main/vecteezy_ai-technology-and-cyber-character-illustration-futuristic_24492308.png)
+
 <h1 align="center">Hi, I'm Huzaifa Azhar.</h1>
 
 A Software Engineering Graduate from the University of Karachi, UBIT.
