@@ -22,10 +22,12 @@ You can reach me here:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Huzaifaaazhar)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/huzaifaazhar05)
 
-## 🏆 GitHub Trophies
+<h1 align="center">🏆 GitHub Trophies</h1>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Huzaifaaazhar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📊 GitHub Stats
+<h1 align="center">📊 GitHub Stats</h1>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzaifaaazhar&show_icons=true&theme=onedark)
 
 
