@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=B31A7D&background=F8A8D4&multiline=true&width=435&lines=Welcome+to+my+GitHub+Profile!%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=B31A7D&background=F8A8D400&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub+Profile!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![Header Image](https://github.com/Huzaifaaazhar/Huzaifaaazhar/blob/main/vecteezy_ai-technology-and-cyber-character-illustration-futuristic_24492308.png?raw=true)
 
