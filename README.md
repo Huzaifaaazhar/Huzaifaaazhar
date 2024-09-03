@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=BB1073&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B.+This+is+Huzaifa+Azhar)](https://git.io/typing-svg)
+
 ![Header Image](https://github.com/Huzaifaaazhar/Huzaifaaazhar/blob/main/vecteezy_ai-technology-and-cyber-character-illustration-futuristic_24492308.png?raw=true)
 
 <h1 align="center">I'm Huzaifa Azhar.</h1>
