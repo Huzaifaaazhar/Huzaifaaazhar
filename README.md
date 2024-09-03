@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=BB1073&center=true&vCenter=true&width=435&lines=This+is+Huzaifa+Azhar)](https://git.io/typing-svg)
 
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=BB1073&center=true&vCenter=true&width=435&lines=This+is+Huzaifa+Azhar)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=BB1073&center=true&vCenter=true&width=435&lines=This+is+Huzaifa+Azhar)](https://git.io/typing-svg)
 
 A Software Engineering Graduate from the University of Karachi, UBIT.
 I have embarked on a journey fueled by a relentless pursuit of personal and professional growth. Rooted in a foundation of academic excellence, I have honed not only technical prowess but also cultivated a multifaceted skill set essential for navigating the complex landscape of modern business and technology.
