@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=B31A7D&background=F8A8D400&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub+Profile!%F0%9F%91%8B)](https://git.io/typing-svg)
 
-![Header Image](https://github.com/Huzaifaaazhar/Huzaifaaazhar/blob/main/vecteezy_ai-technology-and-cyber-character-illustration-futuristic_24492308.png?raw=true)
+![Header Image](https://github.com/Huzaifaaazhar/Huzaifaaazhar/blob/main/Blue-Geometric-Technology-Linkedin-Banner(1).jpg?raw=true)
 
 A Software Engineering Graduate from the University of Karachi, UBIT.
 I have embarked on a journey fueled by a relentless pursuit of personal and professional growth. Rooted in a foundation of academic excellence, I have honed not only technical prowess but also cultivated a multifaceted skill set essential for navigating the complex landscape of modern business and technology.
