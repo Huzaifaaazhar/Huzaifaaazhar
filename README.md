@@ -22,19 +22,6 @@ You can reach me here:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Huzaifaaazhar)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/huzaifaazhar05)
 
-<h1 align="center">🏆 GitHub Trophies</h1>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Huzaifaaazhar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h1 align="center">📊 GitHub Stats</h1>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzaifaaazhar&show_icons=true&theme=onedark)
-
-
-<h1 align="center">📝 Articles and Publications</h1>
-
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=Medium&logoColor=white)](https://medium.com/@azharhuzaifa123)
-
 <h1 align="center">Tools and Tech Stack</h1>
 
 <div align="center">
@@ -65,11 +52,3 @@ You can reach me here:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/></code>
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" title="Selenium"/></code>
 </div>
-
-<h1 align="center">📊 GitHub Stats</h1>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifaaazhar&theme=youtube-dark&hide_border=true)](https://git.io/streak-stats)
-
-<h1 align="center">Contributions</h1>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Huzaifaaazhar&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
