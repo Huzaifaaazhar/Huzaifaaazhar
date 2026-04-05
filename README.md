@@ -1,18 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=B31A7D&background=F8A8D400&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub+Profile!%F0%9F%91%8B)](https://git.io/typing-svg)
 
-A Software Engineering Graduate from the University of Karachi, UBIT.
-I have embarked on a journey fueled by a relentless pursuit of personal and professional growth. Rooted in a foundation of academic excellence, I have honed not only technical prowess but also cultivated a multifaceted skill set essential for navigating the complex landscape of modern business and technology.
-I'm passionate about Data Science and my fervor for Data Science propels me to immerse myself in hands-on experiences aimed at crafting structured methodologies for data-driven decision-making. Driven by passion, I seek constant learning in the field of Data science and keep myself updated with the latest cutting edge technologies.
+I'm Huzaifa Azhar, an AI Engineer, automating business processes and optimizing time and cost for the leaders.
+Let's work on something bigger and create an impact in the society that lasts more then ourselves.
 
-<h1 align="center">Data Science | Machine Learning | Artificial Intelligence</h1>
+<h1 align="center">Artificial Intelligence | Machine Learning</h1>
 
-- 💬 You can ask me about **Data Science, Machine learning, Artificial Intelligence, and Public Speaking.**
-I specialize in leveraging insights through Data analytics using SQL, to conduct thorough data cleaning and exploratory data analysis (EDA). With a background in BI and Data Analytics, I bring practical expertise in ensuring data quality and extracting actionable insights. Each project in my portfolio demonstrates my commitment to meticulous data preparation and insightful analysis.
-I'm on my pathway of becoming a full time Data Scientist!
-
-<h1 align="center">🔭 What I'm Currently Working On</h1>
-
-Building robust data solutions for businesses aiming to enhance data-driven decision-making and insights extraction processes. I provide data consultation services to companies who want to capture more out of their data!
+- 💬 You can ask me about **Artificial Intelligence, Latest News in AI.**
 
 <h1 align="center">📫 How to Reach Me</h1>
 You can reach me here:
